@@ -1,2 +1,2 @@
 #!/bin/sh
-exec /usr/share/steam/compatibilitytools.d/ProtoSoda-11.0-1/proton "$@"
+exec "${CPAK_ROOTFS:-}/usr/share/steam/compatibilitytools.d/ProtoSoda-11.0-1/proton" "$@"
