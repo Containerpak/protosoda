@@ -4,7 +4,7 @@
   "name": "ProtoSoda",
   "description": "Use Soda in the Proton layout expected by Steam and UMU.",
   "version": "11.0-1",
-  "image": "ghcr.io/containerpak/protosoda@sha256:c35b17e7888fa89bf21751f60aef920d6b4de5146f66adb5e6dc308af699a8f8",
+  "image": "ghcr.io/containerpak/protosoda@sha256:3be792c727ad64dceb3b2cb4c154478dad65fdcbc8f0bb1286bb3ff2bbd55c1f",
   "binaries": [
     "/usr/bin/protosoda"
   ],
